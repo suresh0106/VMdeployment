@@ -1,0 +1,10 @@
+/.terraform
+/.terraform.lock.hcl
+/AKKU
+/EO
+/Main-Completed.tf
+/ssh-keys
+/terraform-Vnet
+/Terraform.code-workspace
+/terraform.tfstate
+/terraform.tfstate.backup
