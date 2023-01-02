@@ -21,7 +21,7 @@ provider "azurerm" {
   features {}
 }
 
-resource "azurerm_resource_group" "test-terraform" {
+resource "azurerm_resource_group" "test-terraform1" {
   name     = "test-terraform"
   location = "central india"
 }
